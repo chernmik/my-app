@@ -102,7 +102,8 @@ return (
         </Routes>
       </Router> 
       <Footer/>
-     </div>
+     </div> 
+     
     </AppContext.Provider>
   );
 }
